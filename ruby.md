@@ -1,9 +1,9 @@
-📁 [Table of Contents](README.md#toc)
-# └─ 📄 Ruby
+# 📁 [Table of Contents](README.md#toc)
+# └─ Ruby
 
 ## Description
 
-- Ruby programming language <https://www.ruby-lang.org/en/>
+Ruby programming language <https://www.ruby-lang.org/en/>
 
 ### Prerequisites
 

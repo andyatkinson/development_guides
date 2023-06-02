@@ -1,5 +1,5 @@
-📁 [Table of Contents](README.md#toc)
-# └─ 📄 rbenv
+# 📁 [Table of Contents](README.md#toc)
+# └─ rbenv
 
 ## Description
 

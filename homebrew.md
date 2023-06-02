@@ -1,5 +1,5 @@
-📁 [Table of Contents](README.md#toc)
-# └─ 📄 homebrew
+# 📁 [Table of Contents](README.md#toc)
+# └─ homebrew
 
 ## Description
 
