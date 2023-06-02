@@ -1,5 +1,4 @@
 📁 [Table of Contents](README.md#toc)
-
 # └─ 📄 bundler
 
 ## Description
