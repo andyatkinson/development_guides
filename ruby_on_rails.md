@@ -1,6 +1,6 @@
 # Ruby on Rails
 
-📁 [Table of Contents](README.md#toc)
+📁 [Table of Contents](README.md)
 
 ## Description
 

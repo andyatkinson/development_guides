@@ -1,6 +1,6 @@
 # Installation Guides
 
-## Table of Contents(#toc)
+## Table of Contents
 
 - [rbenv.md](/rbenv.md)
 - [bundler.md](/bundler.md)
