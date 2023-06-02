@@ -10,7 +10,9 @@
 
 ### Steps
 
-1. `gem install bundler`
+```sh
+gem install bundler
+```
 
 ### Success Confirmation
 

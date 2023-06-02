@@ -10,7 +10,9 @@
 
 ### Steps
 
-1. `brew install rbenv ruby-build`
+```sh
+brew install rbenv ruby-build
+```
 
 ### Success Confirmation
 

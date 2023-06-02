@@ -12,5 +12,7 @@ Use `rbenv` to get an up-to-date version of Ruby. For example in June 2023 that 
 
 ### Steps
 
-1. `brew install rbenv ruby-build`
+```sh
+brew install rbenv ruby-build
+```
 
