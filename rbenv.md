@@ -1,12 +1,13 @@
-# rbenv
+📁 [Table of Contents](README.md#toc)
+# └─ 📄 rbenv
 
 ## Description
 
-- Install versions of Ruby <https://github.com/rbenv/rbenv>
+Install versions of Ruby <https://github.com/rbenv/rbenv>
 
 ### Prerequisites
 
-- [Homebrew](homebrew.md)
+[Homebrew](homebrew.md)
 
 ### Steps
 

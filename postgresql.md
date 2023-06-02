@@ -1,8 +1,9 @@
-# PostgreSQL
+📁 [Table of Contents](README.md#toc)
+# └─ 📄 PostgreSQL
 
 ## Description
 
-- PostgreSQL database
+PostgreSQL database
 
 ### Prerequisites
 

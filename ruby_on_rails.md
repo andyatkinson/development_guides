@@ -1,8 +1,9 @@
-# Ruby on Rails
+📁 [Table of Contents](README.md#toc)
+# └─ 📄 Ruby on Rails
 
 ## Description
 
-- Web framework
+Web framework
 
 ### Prerequisites
 

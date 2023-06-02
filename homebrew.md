@@ -1,12 +1,13 @@
-# homebrew
+📁 [Table of Contents](README.md#toc)
+# └─ 📄 homebrew
 
 ## Description
 
-- Package manager for Mac OS <https://brew.sh>
+Package manager for Mac OS <https://brew.sh>
 
 ### Prerequisites
 
-- Mac OS
+Mac OS
 
 ## Steps
 

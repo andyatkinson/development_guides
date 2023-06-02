@@ -3,11 +3,11 @@
 
 ## Description
 
-- Manage gems
+Manage gems
 
 ### Prerequisites
 
-- [Ruby](ruby.md)
+[Ruby](ruby.md)
 
 ### Steps
 
