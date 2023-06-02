@@ -1,5 +1,6 @@
-# 📁 [Table of Contents](README.md#toc)
-# └─ Ruby
+# Ruby
+
+📁 [Table of Contents](README.md#toc)
 
 ## Description
 

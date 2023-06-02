@@ -1,5 +1,6 @@
-# 📁 [Table of Contents](README.md#toc)
-# └─ PostgreSQL
+# PostgreSQL
+
+📁 [Table of Contents](README.md#toc)
 
 ## Description
 

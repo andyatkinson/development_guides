@@ -1,5 +1,6 @@
-# 📁 [Table of Contents](README.md#toc)
-# └─ Ruby on Rails
+# Ruby on Rails
+
+📁 [Table of Contents](README.md#toc)
 
 ## Description
 
