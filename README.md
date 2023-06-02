@@ -1,6 +1,7 @@
 # Installation Guides
 
-## Table of Contents
+## Table of Contents(#toc)
+
 - [rbenv.md](/rbenv.md)
 - [bundler.md](/bundler.md)
 - [postgresql.md](/postgresql.md)
