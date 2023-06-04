@@ -1,24 +1,26 @@
-# rbenv
+# ruby-build
 
 📁 [Table of Contents](README.md)
 
 ## Description
 
-Install versions of Ruby <https://github.com/rbenv/rbenv>
+List versions of Ruby <https://github.com/rbenv/ruby-build>
 
 ### Prerequisites
+
+Homebrew is used to install ruby-build.
 
 [Homebrew](homebrew.md)
 
 ### Steps
 
-Install individually.
+Install ruby-build individually or with [rbenv](rbenv).
 
 ```sh
-brew install rbenv
+brew install ruby-build
 ```
 
-Install with [ruby-build](ruby-build.md)
+Install with [rbenv](rbenv.md)
 
 ```sh
 brew install rbenv ruby-build
