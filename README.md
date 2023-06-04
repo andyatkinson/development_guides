@@ -40,4 +40,4 @@ Cross references exist in the files by linking to other files.
 
 Regenerate the Table of Contents by running `ruby generate_toc.rb`.
 
-The script will append a new version to the file. Remove the old version and commit the changes to this README.md file.
+The script will append a new version to the file. Remove the old version and commit the changes to README.md.
