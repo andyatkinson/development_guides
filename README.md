@@ -7,6 +7,7 @@
 - [postgresql.md](/postgresql.md)
 - [ruby_on_rails.md](/ruby_on_rails.md)
 - [ruby.md](/ruby.md)
+- [postgresapp.md](/postgresapp.md)
 - [homebrew.md](/homebrew.md)
 
 
