@@ -2,7 +2,9 @@
 
 📁 [Table of Contents](README.md)
 
-## Description
+## Installation
+
+### Description
 
 PostgreSQL packaged as a Mac OS app
 
@@ -32,7 +34,9 @@ For example, you can create Servers for PostgreSQL 14 and PostgreSQL 15.
 
 These are the open source community distributions of PostgreSQL compiled for Mac OS.
 
-## Stopping and Starting Servers
+## Usage
+
+### Stopping and Starting Servers
 
 Open the PostgresApp Menu Bar app, and select your server.
 
@@ -42,7 +46,7 @@ PostgreSQL may not be running by default when Mac OS starts. Click "Start" to st
 
 Refer to <https://postgresapp.com/documentation/> for PostgresApp Documentation.
 
-## PostgreSQL Config File
+### PostgreSQL Config File
 
 1. Open the PostgresApp Menu Bar app, and select your server.
 1. Select your Server
@@ -51,12 +55,9 @@ Refer to <https://postgresapp.com/documentation/> for PostgresApp Documentation.
 This will open a Mac OS Finder window with the `postgresql.log` file selected.
 
 
+### PostgreSQL Log File
 
-
-
-## PostgreSQL Log File
-
-## Copy Path to File Using Finder
+### Copy Path to File Using Finder
 
 1. Select a file in a Mac OS Finder window
 1. With the Option key held, right-click the file.
