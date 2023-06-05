@@ -18,11 +18,11 @@ Mac OS
 
 Homebrew installs the `brew` executable.
 
-Running `which brew` will confirm it's installed. Run `brew -v` to check the version.
+Running `which brew` will confirm it's installed. Run `brew --version` to check the version.
 
 ```sh
 which brew
-brew -v
+brew --version
 ```
 
 Version 4 or newer is current as of this writing.

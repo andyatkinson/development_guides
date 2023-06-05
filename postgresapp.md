@@ -6,7 +6,9 @@
 
 ### Description
 
-PostgreSQL packaged as a Mac OS app
+PostgreSQL packaged as a Mac OS app.
+
+Additional PostgreSQL Client Applications [`psql`](https://www.postgresql.org/docs/current/reference-client.html).
 
 ### Prerequisites
 
@@ -33,6 +35,15 @@ New "Servers" can be created using the "+" icon in PostgresApp.
 For example, you can create Servers for PostgreSQL 14 and PostgreSQL 15.
 
 These are the open source community distributions of PostgreSQL compiled for Mac OS.
+
+Confirm the installation of the client application programs.
+
+
+```sh
+psql --version
+
+pg_dump --version
+```
 
 ## Usage
 
