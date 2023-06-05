@@ -4,7 +4,6 @@
 - [ruby_build.md](/ruby_build.md)
 - [rbenv.md](/rbenv.md)
 - [bundler.md](/bundler.md)
-- [postgresql.md](/postgresql.md)
 - [ruby_on_rails.md](/ruby_on_rails.md)
 - [ruby.md](/ruby.md)
 - [postgresapp.md](/postgresapp.md)
