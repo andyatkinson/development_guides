@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-toc = %{# Installation Guides
+toc = %{# Development Guides
 
 ## Table of Contents
 }

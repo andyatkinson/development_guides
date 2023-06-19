@@ -1,6 +1,7 @@
-# Installation Guides
+# Development Guides
 
 ## Table of Contents
+- [psql.md](/psql.md)
 - [ruby_build.md](/ruby_build.md)
 - [rbenv.md](/rbenv.md)
 - [bundler.md](/bundler.md)
@@ -12,32 +13,28 @@
 
 ## What is this?
 
-These are software installation guides to support the book High Performance PostgreSQL for Rails.
+These are Installation and Usage Development Guides to help support the book High Performance PostgreSQL for Rails.
 
-The guides exist in the book as content, Appendixes, but are also maintained here on an ongoing basis.
+The guides exist in the book but are also maintained here.
 
-If you spot bugs or want to contribute suggestions, please open an Issue or Pull Request for this repo!
+If you spot bugs or have suggestions, please open an Issue or Pull Request!
 
 
 ## Mac OS
 
-These installation guides are solely for Mac OS.
-
-In the future there may be additional guides for Linux or Windows as well.
+Installation guides are provided for Mac OS.
 
 
-## Conventions
+## Conventions Used Here
 
 These are command line programs. Install them using a command line Terminal program.
 
-Each piece of software has a corresponding Markdown file. The Table of Contents above is a list of all of the guides made from the Markdown files.
+Each item has it's own Markdown file covering Installation and optionally Usage. The Table of Contents lists all items and is assembled from the Markdown files.
 
-The files are intentionally kept in a flat list to make it easier to generate links to them as a Table of Contents.
-
-Cross references exist in the files by linking to other files.
+The files are kept in a flat list to make it easier to generate the Table of Contents.
 
 ## Table of Contents
 
 Regenerate the Table of Contents by running `ruby generate_toc.rb`.
 
-The script will append a new version to the file. Remove the old version and commit the changes to README.md.
+The script prepends to this file. Remove the old version after the prepended portion before committing the changes.
