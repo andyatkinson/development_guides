@@ -39,3 +39,13 @@ Add the `fx` gem to a Bundler managed project
 
 `fx` should now be available.
 
+
+### Native Gem build errors
+
+Supply additional configuration to bundler for native gems that fail to build.
+
+For example for the "nio4r" gem you may need to add the following configuration, and then `bundle install` again.
+
+```sh
+bundle config --local build.nio4r --with-cflags="-Wno-error=implicit-function-declaration"
+```
