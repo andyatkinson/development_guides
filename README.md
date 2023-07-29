@@ -5,6 +5,7 @@
 - [ruby_build.md](/ruby_build.md)
 - [pgbouncer.md](/pgbouncer.md)
 - [rbenv.md](/rbenv.md)
+- [pgbadger.md](/pgbadger.md)
 - [bundler.md](/bundler.md)
 - [ruby_on_rails.md](/ruby_on_rails.md)
 - [ruby.md](/ruby.md)
