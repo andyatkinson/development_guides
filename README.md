@@ -1,9 +1,9 @@
 # Development Guides
 
 ## Table of Contents
-
 - [psql.md](/psql.md)
 - [ruby_build.md](/ruby_build.md)
+- [pgbouncer.md](/pgbouncer.md)
 - [rbenv.md](/rbenv.md)
 - [bundler.md](/bundler.md)
 - [ruby_on_rails.md](/ruby_on_rails.md)
@@ -11,7 +11,6 @@
 - [mac_os.md](/mac_os.md)
 - [postgresapp.md](/postgresapp.md)
 - [homebrew.md](/homebrew.md)
-
 
 ## What is this?
 
