@@ -17,6 +17,10 @@ Package manager for Mac OS <https://brew.sh>
 
 ## Post Install
 
+Configure System Path
+
+
+
 Homebrew installs the `brew` executable.
 
 Running `which brew` will confirm it's installed. Run `brew --version` to check the version.

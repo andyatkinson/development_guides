@@ -18,11 +18,19 @@ Install individually.
 brew install rbenv
 ```
 
-Install with [ruby-build](ruby-build.md)
+Also installs [ruby-build](ruby-build.md)
 
 ```sh
-brew install rbenv ruby-build
+brew install rbenv
 ```
+
+Configure System Path.
+
+```sh
+eval "$(rbenv init -)"
+```
+
+
 
 ### Success Confirmation
 
@@ -30,7 +38,3 @@ brew install rbenv ruby-build
 which rbenv
 ```
 
-```sh
-> which rbenv
-/usr/local/bin/rbenv
-```

@@ -18,6 +18,13 @@ Mac OS
 
 Follow the installation instructions on <https://postgresapp.com>.
 
+Configure System Path.
+
+```sh
+sudo mkdir -p /etc/paths.d &&
+echo /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/paths.d/postgresapp
+```
+
 ### Documentation
 
 Refer to <https://postgresapp.com/documentation/> for PostgresApp Documentation.

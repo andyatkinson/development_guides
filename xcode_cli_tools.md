@@ -10,4 +10,19 @@ Not installed by default on Mac OS, but are needed for installation of any softw
 
 ## Steps
 
-Can be triggered manually, or was started during the Homebrew installation on Mac OS Ventura.
+Trigger manually:
+
+```sh
+sudo xcode-select --install
+```
+
+Can be triggered manually or will be started during the Homebrew installation.
+
+Add to System Path
+
+From the [mac.install.guide](https://mac.install.guide/homebrew/3.html)
+
+```
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+```
