@@ -8,7 +8,8 @@ Package manager for Mac OS <https://brew.sh>
 
 ### Prerequisites
 
-Mac OS
+- Mac OS
+- [Xcode CLI Tools](xcode_cli_tools.md)
 
 ## Steps
 
