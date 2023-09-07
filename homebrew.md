@@ -8,13 +8,18 @@ Package manager for Mac OS <https://brew.sh>
 
 ### Prerequisites
 
-Mac OS
+- Mac OS
+- [Xcode CLI Tools](xcode_cli_tools.md)
 
 ## Steps
 
 1. Run shell command on website to install it
 
 ## Post Install
+
+Configure System Path
+
+
 
 Homebrew installs the `brew` executable.
 
