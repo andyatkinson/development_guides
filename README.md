@@ -6,12 +6,12 @@
 - [ruby_build.md](/ruby_build.md)
 - [pgbouncer.md](/pgbouncer.md)
 - [rbenv.md](/rbenv.md)
+- [macos.md](/macos.md)
 - [pgbadger.md](/pgbadger.md)
 - [graphviz.md](/graphviz.md)
 - [bundler.md](/bundler.md)
 - [ruby_on_rails.md](/ruby_on_rails.md)
 - [ruby.md](/ruby.md)
-- [mac_os.md](/mac_os.md)
 - [postgresapp.md](/postgresapp.md)
 - [homebrew.md](/homebrew.md)
 
@@ -24,9 +24,9 @@ The guides exist in the book but are also maintained here.
 If you spot bugs or have suggestions, please open an Issue or Pull Request!
 
 
-## Mac OS
+## macOS
 
-Installation guides are provided for Mac OS.
+Installation guides are provided for macOS.
 
 
 ## Conventions Used Here

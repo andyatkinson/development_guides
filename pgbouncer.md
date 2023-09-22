@@ -10,7 +10,7 @@ Open source connection pooler for PostgreSQL
 
 ### Prerequisites
 
-Mac OS, Homebrew
+macOS, Homebrew
 
 ### Steps
 

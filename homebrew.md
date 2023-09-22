@@ -4,11 +4,11 @@
 
 ## Description
 
-Package manager for Mac OS <https://brew.sh>
+Package manager for macOS <https://brew.sh>
 
 ### Prerequisites
 
-- Mac OS
+- macOS
 - [Xcode CLI Tools](xcode_cli_tools.md)
 
 ## Steps
