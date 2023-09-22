@@ -14,7 +14,7 @@ Open source log analysis tool
 
 ### Prerequisites
 
-Mac OS, Homebrew
+macOS, Homebrew
 
 ### Steps
 

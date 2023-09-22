@@ -8,7 +8,7 @@ Web framework
 
 ### Prerequisites
 
-- Mac OS or Windows or Linux
+- macOS, Linux, or Windows Subsytem for Linux (WSL 2)
 - [Ruby](ruby.md)
 - [PostgreSQL](postgresql.md)
 

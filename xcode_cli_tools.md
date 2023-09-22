@@ -6,7 +6,7 @@
 
 Xcode Command Line Tools
 
-Not installed by default on Mac OS, but are needed for installation of any software that is compiled.
+Not installed by default on macOS, but are needed for installation of any software that is compiled.
 
 ## Steps
 
