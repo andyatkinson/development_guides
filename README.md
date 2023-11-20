@@ -18,28 +18,27 @@
 
 ## What is this?
 
-These are Installation and Usage Development Guides to help support the book High Performance PostgreSQL for Rails.
-
-The guides exist in the book but are also maintained here.
+This repo expands on the development environment instructions for [Rideshare](https://github.com/andyatkinson/rideshare),
+which is the application for the book [High Performance PostgreSQL for Rails](https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/) set up their local development environment.
 
 If you spot bugs or have suggestions, please open an Issue or Pull Request!
 
 
 ## macOS
 
-Installation guides are provided for macOS.
+Installation guides are provided for macOS. If you want to add tips for additional operating systems, please open an issue or pull request.
 
 
 ## Conventions Used Here
 
-These are command line programs. Install them using a command line Terminal program.
+Most of the programs here are *command line programs*, so you'll work in your terminal.
 
-Each item has it's own Markdown file covering Installation and optionally Usage. The Table of Contents lists all items and is assembled from the Markdown files.
+Each item has it's own Markdown file (`.md`) covering *Installation*, shows dependencies, and might have some troubleshooting tips.
 
-The files are kept in a flat list to make it easier to generate the Table of Contents.
+The *Table of Contents* lists all items, and it's assembled from the Markdown files.
 
 ## Table of Contents
 
-Regenerate the Table of Contents by running `ruby generate_toc.rb`.
+The Table of Contents is generated. Regenerate it by running: `ruby generate_toc.rb` from your terminal.
 
-The script prepends to this file. Remove the old version after the prepended portion before committing the changes.
+After regenerating, a duplicate TOC block is placed on the top. Delete the old block, and then commit the new one.
