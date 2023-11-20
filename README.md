@@ -10,6 +10,7 @@
 - [pgbadger.md](/pgbadger.md)
 - [graphviz.md](/graphviz.md)
 - [bundler.md](/bundler.md)
+- [ruby_pg_gem.md](/ruby_pg_gem.md)
 - [ruby_on_rails.md](/ruby_on_rails.md)
 - [ruby.md](/ruby.md)
 - [postgresapp.md](/postgresapp.md)
