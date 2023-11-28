@@ -3,6 +3,8 @@
 ## Table of Contents
 - [xcode_cli_tools.md](/xcode_cli_tools.md)
 - [psql.md](/psql.md)
+- [.ruby-version](/.ruby-version)
+- [pg_cron.md](/pg_cron.md)
 - [ruby_build.md](/ruby_build.md)
 - [pgbouncer.md](/pgbouncer.md)
 - [rbenv.md](/rbenv.md)
