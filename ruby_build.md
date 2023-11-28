@@ -14,7 +14,9 @@ Homebrew is used to install ruby-build.
 
 ### Steps
 
-Install ruby-build individually or with [rbenv](rbenv).
+NOTE: ruby-build is included automatically with Rbenv.
+
+Install ruby-build manually:
 
 ```sh
 brew install ruby-build
@@ -28,11 +30,8 @@ brew install rbenv ruby-build
 
 ### Success Confirmation
 
-```sh
-which rbenv
-```
+`which rbenv`
 
 ```sh
-> which rbenv
 /usr/local/bin/rbenv
 ```

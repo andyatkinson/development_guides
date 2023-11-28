@@ -1,4 +1,4 @@
-# rbenv
+# Rbenv
 
 📁 [Table of Contents](README.md)
 

@@ -1,4 +1,4 @@
-# PostgresAPP
+# PostgresApp
 
 📁 [Table of Contents](README.md)
 

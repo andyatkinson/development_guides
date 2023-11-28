@@ -39,5 +39,3 @@ Run it in a Terminal window to see log output:
 ```sh
 pgbouncer -R /usr/local/etc/pgbouncer.ini
 ```
-
-

@@ -12,6 +12,8 @@ Manage gems
 
 ### Steps
 
+NOTE: Bundler is included with Ruby when installed by Rbenv. Installing it like this is no longer necessary.
+
 ```sh
 gem install bundler
 ```

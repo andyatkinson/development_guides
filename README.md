@@ -33,7 +33,7 @@ Installation guides are provided for macOS. If you want to add tips for other op
 
 Most of the programs here are *command line programs*, so you'll work in your terminal.
 
-Each item has a Markdown file (`.md`) covering *Installation*, dependencies, and might have some troubleshooting or usage sections.
+Each item has a Markdown file (`.md`) that can cover **Installation**, **Dependencies**, and possibly **Troubleshooting** or **Usage** sections.
 
 The *Table of Contents* lists all items, and it's assembled from the Markdown files.
 
