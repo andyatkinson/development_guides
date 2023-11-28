@@ -72,9 +72,9 @@ Schedule a job
 
 ```sql
 SELECT cron.schedule_in_database(
-  job_name:='rideshare trips vacuum',
+  job_name:='Manual rideshare.trips Vacuum',
   schedule:='0 10 * * *',
-  command:='VACUUM ANALYZE trips',
+  command:='VACUUM (ANALYZE) rideshare.trips',
   database:='rideshare_development',
   username:='postgres'
 );
@@ -98,7 +98,6 @@ pg_cron is integrated with [andyatkinson/pghero](https://github.com/andyatkinson
 ```sh
 pg_cron.dylib: Operation not permitted
 ```
-
 See: <https://github.com/PostgresApp/PostgresApp/issues/719>
 
 > I figured out how to do it:
