@@ -49,12 +49,16 @@ Set `PGDATA`
 export PGDATA="$(psql $DATABASE_URL \
     -c 'SHOW data_directory' \
     --tuples-only | sed 's/^[ \t]*//')"
+echo "Value set for PGDATA: $PGDATA"
+
+echo "You can now run pg_ctl without supplying the data directory:"
+echo "pg_ctl restart|reload"
 ```
 
 ```sh
-psql $DATABASE_URL -c 'SHOW config_file'
+psql -U postgres -c 'SHOW config_file'
 
-# Add to config_file
+# Add extension name individually, or to existing comm-separated list
 shared_preload_libraries = 'pg_cron'
 
 pg_ctl restart
