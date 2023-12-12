@@ -7,6 +7,7 @@
 - [ruby_build.md](/ruby_build.md)
 - [pgbouncer.md](/pgbouncer.md)
 - [rbenv.md](/rbenv.md)
+- [homebrew_postgresql.md](/homebrew_postgresql.md)
 - [macos.md](/macos.md)
 - [pgbadger.md](/pgbadger.md)
 - [graphviz.md](/graphviz.md)
