@@ -49,17 +49,25 @@ shared_preload_libraries = 'pg_hint_plan'
 
 pg_ctl restart
 
-psql
+psql -U postgres # Superuser
 
-\c postgres
+\c rideshare_development
 
-create extension pg_hint_plan;
+# needed for the "hints" table <https://github.com/ossc-db/pg_hint_plan/blob/master/docs/hint_table.md>
+CREATE EXTENSION pg_hint_plan;
+
+LOAD 'pg_hint_plan';
 ```
+
+For issues, refer to the extension Installation instructions: <https://github.com/ossc-db/pg_hint_plan/blob/master/docs/installation.md>
 
 ## Usage
 
+Use pg_hint_plan identifies like "SeqScan(tablename)"
+
+Review the [full list of hints](https://github.com/ossc-db/pg_hint_plan/blob/master/docs/hint_list.md)
 
 
 ## Integration
 
-
+pg_hint_plan is integrated with Active Record using the “optimizer_hints” method
