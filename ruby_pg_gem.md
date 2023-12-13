@@ -4,7 +4,7 @@
 
 ## Description
 
-Pg is the Ruby interface to the PostgreSQL RDBMS. 
+Pg is the Ruby interface to the PostgreSQL RDBMS.
 
 ### Steps
 
@@ -24,6 +24,17 @@ gem install pg -- --with-pg-config=<path to pg_config>
 
 If you're installing via Bundler, you can provide compile hints like so:
 
-```
+```sh
 bundle config build.pg --with-pg-config=<path to pg_config>
 ```
+
+For example, for Postgres.app on macOS:
+
+```sh
+bundle config build.pg \
+  --with-pg-config=/Applications/Postgres.app/Contents/Versions/latest/bin/pg_config
+```
+
+### Troubleshooting
+
+Run `pg_config` to learn about your installation.
