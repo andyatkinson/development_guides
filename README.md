@@ -15,6 +15,7 @@
 - [ruby_pg_gem.md](/ruby_pg_gem.md)
 - [ruby_on_rails.md](/ruby_on_rails.md)
 - [ruby.md](/ruby.md)
+- [pg_hint_plan.md](/pg_hint_plan.md)
 - [postgresapp.md](/postgresapp.md)
 - [homebrew.md](/homebrew.md)
 
