@@ -3,12 +3,10 @@
 📁 [Table of Contents](README.md)
 
 ### Prerequisites
-
 - macOS
 - [Xcode CLI Tools](xcode_cli_tools.md)
 
 ## Use PostgresApp versions
-
 ```sh
 which pg_config
 /Applications/Postgres.app/Contents/Versions/latest/bin/pg_config
@@ -18,7 +16,6 @@ pg_config --includedir
 ```
 
 ## Compile from source
-
 With those in place, you're ready
 
 ```sh
@@ -62,12 +59,10 @@ LOAD 'pg_hint_plan';
 For issues, refer to the extension Installation instructions: <https://github.com/ossc-db/pg_hint_plan/blob/master/docs/installation.md>
 
 ## Usage
-
 Use pg_hint_plan identifies like "SeqScan(tablename)"
 
 Review the [full list of hints](https://github.com/ossc-db/pg_hint_plan/blob/master/docs/hint_list.md)
 
 
 ## Integration
-
 pg_hint_plan is integrated with Active Record using the “optimizer_hints” method
