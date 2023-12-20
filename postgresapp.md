@@ -5,17 +5,14 @@
 ## Installation
 
 ### Description
-
 PostgreSQL packaged as a macOS app.
 
 Additional PostgreSQL Client Applications [`psql`](https://www.postgresql.org/docs/current/reference-client.html).
 
 ### Prerequisites
-
 macOS
 
 ### Steps
-
 Follow the installation instructions on <https://postgresapp.com>.
 
 Configure System Path.
@@ -26,11 +23,10 @@ echo /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/pat
 ```
 
 ### Documentation
-
 Refer to <https://postgresapp.com/documentation/> for PostgresApp Documentation.
 
-### Success Confirmation
 
+### Success Confirmation
 In macOS, in the rop right of the OS apps are visible called Menu Bar Apps.
 
 Refer to macOS [Menu Bar Support docs](https://support.apple.com/guide/mac-help/whats-in-the-menu-bar-mchlp1446/mac#:~:text=The%20menu%20bar%20runs%20along,the%20top%20of%20the%20screen.) for more information.

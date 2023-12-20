@@ -7,6 +7,7 @@
 - [pg_cron.md](/pg_cron.md)
 - [ruby_build.md](/ruby_build.md)
 - [pgbouncer.md](/pgbouncer.md)
+- [pspg.md](/pspg.md)
 - [rbenv.md](/rbenv.md)
 - [homebrew_postgresql.md](/homebrew_postgresql.md)
 - [macos.md](/macos.md)
@@ -16,9 +17,11 @@
 - [ruby_pg_gem.md](/ruby_pg_gem.md)
 - [ruby_on_rails.md](/ruby_on_rails.md)
 - [ruby.md](/ruby.md)
+- [pg_lock_tracker.md](/pg_lock_tracker.md)
 - [pg_hint_plan.md](/pg_hint_plan.md)
 - [postgresapp.md](/postgresapp.md)
 - [homebrew.md](/homebrew.md)
+
 
 ## What is this?
 
